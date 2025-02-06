@@ -1,2 +1,1 @@
-# customize-logs-fluentbit
-GoogleCloud Bugbounty POC
+# GoogleCloud Bugbounty POC
