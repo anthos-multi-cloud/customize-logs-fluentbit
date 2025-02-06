@@ -3,5 +3,6 @@
 for deploy run this command:
 ```
 git clone https://github.com/anthos-multi-cloud/customize-logs-fluentbit.git customize-logs-fluentbit
-./customize-logs-fluentbit/deploy.sh
+cd customize-logs-fluentbit/
+./deploy.sh
 ```
